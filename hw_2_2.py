@@ -1,6 +1,6 @@
 a = ''
 b = ''
-while not  a.isdigit():
+while not a.isdigit():
     while not b.isdigit():
         a = input('Введите целую нижнюю границу промежутка: ')
         b = input('Введите целую верхнюю границу промежутка: ')
